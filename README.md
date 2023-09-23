@@ -8,7 +8,7 @@ This tool allows the convertion of shaders from parameters specified inside exte
 *This tool can exist for both Python2 and Python 3 Builds of Houdini in the same Folder. (Tested in 18.5)*
 ### Manual Install
 
-To install the Tool using Manual Instructions, Extract the **echopr** and **packages** folders into your Houdini Documents folder (This Folder contains the houdini.env file.)
+安装说明，请将echopr和packages解压缩到Houdini Documents文件夹中（此文件夹包含houdini.env文件。）
 
 Then Create a Shelf tool with the following:
 
